@@ -22,3 +22,9 @@ Sample input and output 2:
 7
 1
 '''
+noBalls = int(input())
+wides = int(input())
+byes = int(input())
+led-byes = int(input())
+penaltyRuns = int(input())
+print(noBalls + wides + byes + led-byes + (penaltyRuns * 5 ))
