@@ -21,5 +21,7 @@ Sample Input 3
 Sample Output 3
 212.0
 '''
-temperature_celsius = int(input())
-x= tecelsius 
+temperature_In_Celsius = int(input())
+x = temperature_In_Celsius * 9/5
+y = x + 32
+print(y)
